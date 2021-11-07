@@ -1,0 +1,29 @@
+#menu{
+
+    width: 1020px;
+	height: 80px;
+	background-image: url(../imagenes/fondofinal.jpg);
+}
+
+.fondo{
+	float: left;
+	margin-right: 100px;
+	width: 20px;
+}
+
+h1{
+	padding-top: 20px;
+	color: black;
+	margin-left: 80px;
+}
+
+h2{
+	padding-top: 20px;
+	color: #0A2F7A;
+	margin-left: 80px;
+}
+
+p{
+
+	font-weight: bolder;
+}
